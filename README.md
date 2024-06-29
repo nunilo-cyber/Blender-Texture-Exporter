@@ -5,4 +5,4 @@ This addon for blender exports texture's from any cube.
 Download the zip file in the releases.
 In blender, go to edit > preferences > addons > install and choose the zip file you just downloaded.
 Enable the addon and then in blender select a cube(must have a texture) click object > Export textures from selected cube or something like that and choose your path for the textures and click accept.
-Then you will need to delete the vtf and vmt files because they are dont work and make another ones with the tga file(if you prefer to make valve textures) and also you can delete the neccessary files.
+Then you will need to delete the vtf and vmt files because they dont work and make another ones with the tga file(if you prefer to make valve textures) and also you can delete the neccessary files.
